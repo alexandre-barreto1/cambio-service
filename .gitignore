@@ -1,0 +1,39 @@
+.attach_pid*
+/target/
+/app/.attach_pid*
+/app/target/
+/app/java
+/app/delphi
+/lib/target/
+/tests/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/a
+
+## Arquivos a serem substituidos nos projetos criados ##
+/pom.xml
+/lib/pom.xml
+/app/pom.xml
+
+/app/log.txt
