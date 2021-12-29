@@ -37,3 +37,6 @@
 /app/pom.xml
 
 /app/log.txt
+.mvn/
+mvnw
+mvnw.cmd
