@@ -34,3 +34,5 @@
 .mvn/
 mvnw
 mvnw.cmd
+
+.directory
