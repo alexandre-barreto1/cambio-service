@@ -31,3 +31,6 @@
 /nbdist/
 /.nb-gradle/a
 
+.mvn/
+mvnw
+mvnw.cmd
